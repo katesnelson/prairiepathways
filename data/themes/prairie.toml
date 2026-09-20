@@ -1,0 +1,41 @@
+# Prairie Pathways custom theme
+# Earthy prairie olive + golden-wheat accent, with a warm dark mode.
+name = "Prairie"
+
+[light]
+  # Primary accent (headings highlights, buttons, links)
+  primary = "#a5670f"
+
+  # Navigation bar
+  menu_primary = "#3d4d2a"
+  menu_text = "rgba(255, 255, 255, 0.85)"
+  menu_text_active = "#f2c14e"
+  menu_title = "#ffffff"
+
+  # Links
+  link = "#9c6410"
+  link_hover = "#c8891c"
+
+  # Backgrounds
+  background = "#ffffff"
+  home_section_odd = "#faf6ee"
+  home_section_even = "#ffffff"
+
+[dark]
+  # Primary accent
+  primary = "#f0c85a"
+
+  # Navigation bar
+  menu_primary = "#212a17"
+  menu_text = "rgba(255, 255, 255, 0.78)"
+  menu_text_active = "#f2c14e"
+  menu_title = "#ffffff"
+
+  # Links
+  link = "#f0c85a"
+  link_hover = "#f7d98a"
+
+  # Backgrounds
+  background = "#14180f"
+  home_section_odd = "#1a2013"
+  home_section_even = "#14180f"

@@ -1,0 +1,12 @@
+# Prairie Pathways font set
+# Warm editorial serif headings (Fraunces) + clean, readable body (Inter).
+name = "Prairie"
+
+# Google font families
+google_fonts = "family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono&display=swap"
+
+# Font families
+heading_font = "Fraunces"
+body_font = "Inter"
+nav_font = "Inter"
+mono_font = "JetBrains Mono"

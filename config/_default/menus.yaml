@@ -1,0 +1,25 @@
+# Navigation Links
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: About
+    url: about/
+    weight: 10
+  - name: Oral Histories
+    url: oral-histories/
+    weight: 20
+  - name: Story Maps
+    url: storymaps/
+    weight: 30
+  - name: News
+    url: post/
+    weight: 40
+  - name: Participate
+    url: participate/
+    weight: 50
+  - name: People
+    url: people/
+    weight: 60
+  - name: Contact
+    url: contact/
+    weight: 70
