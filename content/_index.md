@@ -19,7 +19,7 @@ sections:
         url: ./about/
         label: About the project
       cta_note:
-        label: A community-centered research project at Kansas State University, supported by the U.S. National Science Foundation.
+        label: A community-centered research project, supported by the U.S. National Science Foundation.
     design:
       background:
         image:
