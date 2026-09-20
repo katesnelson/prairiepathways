@@ -111,7 +111,7 @@ sections:
         societies and museums, extension and conservation district staff, and community members across
         the study regions. We are grateful to everyone who shares their time, memories, and knowledge.
 
-        Prairie Pathways is led from **Kansas State University** and is supported by the
+        Prairie Pathways is led from the **University of Missouri** and is supported by the
         **U.S. National Science Foundation**. Any opinions, findings, and conclusions or
         recommendations expressed on this site are those of the project team and do not necessarily
         reflect the views of the National Science Foundation.
