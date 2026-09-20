@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Prairie Pathways · Kansas State University. This material is based upon work supported by the U.S. National Science Foundation. Any opinions, findings, and conclusions expressed are those of the project team and do not necessarily reflect the views of the NSF.'
+    notice: '© {year} Prairie Pathways · Universityof Missouri. This material is based upon work supported by the U.S. National Science Foundation. Any opinions, findings, and conclusions expressed are those of the project team and do not necessarily reflect the views of the NSF.'
     license:
       enable: false
       allow_derivatives: false
