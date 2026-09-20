@@ -10,7 +10,7 @@ sections:
       text: |-
         Questions about the project, an interview, or an introduction? We would love to hear from you.
         The best way to reach us is by email — we read every message and reply personally.
-      email: prairiepathways@ksu.edu
+      email: katherinenelson@missouri.edu
       address:
         street: ''
         city: Manhattan
@@ -21,7 +21,7 @@ sections:
       coordinates:
         latitude: '39.1897'
         longitude: '-96.5847'
-      directions: 'Prairie Pathways · Kansas State University, Manhattan, Kansas'
+      directions: 'Prairie Pathways · University of Missouri, Columbia, Missouri'
       # Contact form is disabled for static hosting (GitHub Pages). See README.md to enable
       # a Formspree or Netlify form.
       autolink: true
