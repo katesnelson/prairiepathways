@@ -6,8 +6,8 @@ superuser: false
 role: Postdoctoral Fellow
 
 organizations:
-  - name: Kansas State University
-    url: 'https://www.k-state.edu/'
+  - name: University of Missouri
+    url: 'https://missouri.edu/'
 
 bio: ''
 
@@ -19,7 +19,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:prairiepathways@ksu.edu'
+    link: 'mailto:johncanfield@missouri.edu'
 
 email: ''
 highlight_name: false
