@@ -1,9 +1,9 @@
 ---
 title: Research Team Member
-first_name: Research
-last_name: Team Member
+first_name: John
+last_name: Canfield
 superuser: false
-role: Graduate Researcher
+role: Postdoctoral Fellow
 
 organizations:
   - name: Kansas State University
@@ -12,9 +12,9 @@ organizations:
 bio: ''
 
 interests:
-  - Oral history
-  - Agricultural history
-  - Community fieldwork
+  - Rural sociology
+  - Agrifood systems
+  - Community-engaged research
 
 social:
   - icon: envelope
