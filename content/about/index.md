@@ -7,22 +7,21 @@ sections:
   - block: markdown
     content:
       title: About Prairie Pathways
-      subtitle: 'A community-centered study of agricultural landscape change'
+      subtitle: 'Exploring agricultural pasts to inform rural futures'
       text: |
         The fields, farms, and towns of rural Kansas look very different today than they did a
         century ago. Some communities came to grow a wide range of crops; others came to specialize
         in just a few. Farms grew larger or fewer, main streets thinned or held on, and the everyday
         practices of working the land shifted with each generation.
 
-        **Prairie Pathways** works to understand the socioecological processes behind those changes —
-        the sociocultural, economic, political, and ecological forces that have shaped farm type, crop
-        diversity, and community structure over time. We are interested in the *history* of how rural
-        agricultural landscapes came to be the way they are, and in how the people who live and work
-        in these communities understand that history.
+        **Agricultural Systems and Rural Community Well-Being** is a community-centered research
+        project working to understand *why* those changes happened and *how* the people who lived
+        through them make sense of them. We study the social, cultural, economic, ecological, and
+        policy processes that have shaped farm types, crop diversity, and community life.
 
-        This is a study of change, not a campaign for it. We do not set out to promote any particular
-        way of farming. Instead, we listen, document, and analyze — so that this heritage is
-        recorded, better understood, and returned to the communities it belongs to.
+        Our goal is not to argue for any one way of farming, but to document these histories, learn
+        from them, and return them to the communities they belong to. We will also produce resources
+        to help communities plan for and navigate the futures ahead.
     design:
       columns: '1'
 
@@ -79,6 +78,10 @@ sections:
         - **Oral history interviews.** We conduct semi-structured interviews with agricultural
           producers, community leaders, local historians, elders, and extension, conservation
           district, and USDA staff who understand the history of change in their regions.
+       - **Timeline interviews.** Together with participants, we map out key decisions and turning
+          points, on the farm and in the community, to trace how and why practices changed over time.
+      -  **Semi-structured interviews.** We talk with producers, community leaders, and extension,
+          conservation district, and USDA staff about farming and rural life today.
         - **Archival and historical research.** We draw on county museum records, historical society
           collections, agricultural reports, and other archival materials to place personal accounts
           alongside the historical record.
