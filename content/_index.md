@@ -9,7 +9,7 @@ sections:
     content:
       title: Prairie Pathways
       text: |
-        Documenting the history of agricultural landscape change — and celebrating the heritage of the rural Kansas communities living it.
+          Exploring agricultural pasts to inform rural futures and celebrating the stories of local people and rural communities
       cta:
         url: ./participate/
         label: Share your story
@@ -35,7 +35,7 @@ sections:
 
   - block: markdown
     content:
-      title: Understanding how farming — and rural life — have changed
+      title: Understanding how agriculture and rural life have changed
       subtitle: ''
       text: |
         Across Kansas, the crops grown in the field and the shape of rural communities have changed
@@ -48,10 +48,11 @@ sections:
         farming, but to document these histories, learn from them, and return them to the communities
         they belong to.
 
-        Alongside this research we gather **oral histories** and build **story maps** that celebrate the
-        agricultural heritage of rural Kansas — the knowledge, decisions, and lived experience of
-        farmers, community leaders, local historians, elders, and the organizations that support them.
-
+        Through **oral histories**, timeline interviews, and conversations with community members,
+        we gather the knowledge, decisions, and lived experience of farmers, community leaders,
+        local historians, elders, and the organizations that support them. We then build **story maps** that celebrate the
+        agricultural history of rural Kansas and the people that support them.
+    
         {{% cta cta_link="./about/" cta_text="Learn more about the project →" %}}
     design:
       columns: '1'
