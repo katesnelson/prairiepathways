@@ -32,7 +32,7 @@ sections:
           <div class="col-md-6">
             <ul>
               <li><strong>Elders</strong> with knowledge of earlier ways of farming and community life</li>
-              <li><strong>Extension, conservation district, and USDA staff</strong></li>
+              <li><strong>Extension, conservation district, and USDA staff</strong>current or retired, who have supported and worked alongside local producers</li>
               <li><strong>Anyone</strong> who cares about the agricultural heritage of their community</li>
             </ul>
           </div>
